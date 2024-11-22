@@ -16,7 +16,7 @@ const AppFooter = () => (
         />
       </NavLink>
       <p className={styles.copyright}>
-        ©{new Date().getFullYear()} Natalia Biriouk
+        ©2017-2019 Natalia Biriouk
       </p>
       made by <a
           href={`http://${AUTHOR_SITE}`}
